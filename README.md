@@ -71,7 +71,7 @@ I created a Workbook in Sentinel. I then configured the Workbook to plot the dat
 <img src="https://i.imgur.com/f6lqohk.png" height="50%" width="50%" alt="Map Init"/>
 </p>
 <p>
-I then waited for around 72 hours for the Internet to attack my machine, before tearing down my Resource Group.
+I then waited for around 72 hours for the Internet to attack my machine. This was the result.
 </p>
 <br />
 
@@ -79,3 +79,15 @@ I then waited for around 72 hours for the Internet to attack my machine, before 
 <img src="https://i.imgur.com/h4Cdgpb.png" height="100%" width="100%" alt="Attack Map"/>
 </p>
 
+<p>
+And this is after a little over one week.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/IQv03dZ.png" height="100%" width="100%" alt="Attack Map"/>
+</p>
+
+<p>
+<img src="https://i.imgur.com/3tizwQI.png" height="80%" width="80%" alt="API pulls"/>
+</p>
